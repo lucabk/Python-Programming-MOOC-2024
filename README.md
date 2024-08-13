@@ -64,6 +64,8 @@ pip install pygame
 
 This project was developed as part of the Python Programming MOOC 2024 by the University of Helsinki.
 
+https://programming-24.mooc.fi/
+
 <img src=media/points.png>
 
 
