@@ -29,13 +29,13 @@ pip install pygame
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/space-invaders.git
+   https://github.com/lucabk/Python-Programming-MOOC-2024.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd space-invaders
+   cd Python-Programming-MOOC-2024
    ```
 
 3. Run the game script:
