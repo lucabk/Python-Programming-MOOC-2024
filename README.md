@@ -66,6 +66,4 @@ This project was developed as part of the Python Programming MOOC 2024 by the Un
 
 <img src=media/points.png>
 
----
 
-Make sure to replace `yourusername` with your actual GitHub username and adjust the paths or instructions according to your project setup. Save this content into a file named `README.md` in your project's root directory. This will be automatically displayed on your GitHub repository page.
