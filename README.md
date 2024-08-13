@@ -1,5 +1,7 @@
 # Python Programming MOOC 2024 - University of Helsinki
 
+<img src=media/game.png>
+
 # Space Invaders
 
 This is a simple "Space Invaders"-style game developed in Python using the Pygame library. The objective of the game is to control a robot, avoid falling monsters, and survive as long as possible. The game ends when the robot's health drops to zero.
@@ -61,6 +63,8 @@ pip install pygame
 ## Acknowledgments
 
 This project was developed as part of the Python Programming MOOC 2024 by the University of Helsinki.
+
+<img src=media/points.png>
 
 ---
 
